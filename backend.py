@@ -1,6 +1,5 @@
 """
 backend.py — RC Celta de Vigo — Sistema de Análisis de Cantera
-Lógica de negocio: conexión SQL, herramientas LangChain, agente Claude.
 """
 
 from dotenv import load_dotenv
