@@ -77,7 +77,7 @@ Las gráficas aparecen automáticamente en el panel derecho después de cada con
 ```
 celta_cantera_app/
 ├── backend.py          — Lógica: conexión Databricks, agente Claude, tools SQL
-├── frontend_new.py     — Interfaz: Gradio, visualizaciones interactivas
+├── frontend.py     — Interfaz: Gradio, visualizaciones interactivas
 ├── tfg_celta.env       — Credenciales (no compartir)
 ├── celta_logo.png      — Logo del Celta
 ├── portada_bg.jpg      — Foto de portada
