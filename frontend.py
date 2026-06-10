@@ -1,7 +1,6 @@
 """
-frontend_new.py — RC Celta de Vigo — Sistema de Análisis de Cantera
-Diseño: splash con foto + transparencia, sidebar, chat + panel viz lateral.
-Ejecutar: python frontend_new.py
+frontend.py — RC Celta de Vigo — Sistema de Análisis de Cantera
+Ejecutar: python3 frontend.py
 """
 
 import gradio as gr
